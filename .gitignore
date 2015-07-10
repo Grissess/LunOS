@@ -1,0 +1,10 @@
+*.o
+utils/
+sol/
+*.img
+*.final
+*.flat
+*.odt
+*.tape
+*.out
+ofile
